@@ -1,9 +1,10 @@
 ---
 title: nginx启动报错解决方法
+date: 2020-07-19 15:47:27
 ---
+
+
 # [nginx启动报错：nginx: [error\] open() "/var/run/nginx/nginx.pid" failed (2: No such file or directory) 的解决办法](https://www.cnblogs.com/chenmingjun/p/10052205.html)
-
-
 
 问题：
 

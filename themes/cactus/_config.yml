@@ -130,6 +130,21 @@ open_graph:
   twitter_id:
   google_plus:
 
+#gitment
+gitment:
+  enable: true
+  mint: true
+  count: true
+  lazy: false
+  cleanly: false
+  language:
+  github_user: detectiveHLH
+  github_repo: detectiveHLH.github.io
+  client_id: f3ed9ae29849673e4a1d
+  client_secret: 46a1fd90ead089d779bab96ddf3f144716db3ee8
+  proxy_gateway:
+  redirect_protocol:
+
 
 ##############################################################################
 # Plugins
