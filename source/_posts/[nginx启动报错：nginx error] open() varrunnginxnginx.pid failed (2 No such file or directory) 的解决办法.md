@@ -1,6 +1,11 @@
 ---
 title: nginx启动报错解决方法
 date: 2020-07-19 15:47:27
+updated: 2020-07-20 15:47:27
+categories: 
+- Server
+tags:
+- JAVA WEB
 ---
 
 

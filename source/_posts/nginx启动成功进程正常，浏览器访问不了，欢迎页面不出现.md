@@ -1,6 +1,11 @@
 ---
 title: nginx启动成功进程正常，浏览器访问不了
 date: 2020-07-19 15:54:29
+updated: 2020-07-20 15:47:27
+categories: 
+- Server
+tags:
+- JAVA WEB
 ---
 
 nginx启动成功进程正常，浏览器访问不了，欢迎页面不出现
