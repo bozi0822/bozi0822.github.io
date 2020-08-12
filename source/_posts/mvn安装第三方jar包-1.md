@@ -1,15 +1,11 @@
-
+---
+title: mvn安装第三方jar包
+date: 2020-08-12 19:37:23
+tags: JAVA WEB
 ---
 
-title: nginx启动报错解决方法
-date: 2020-08-12 19:33:27
-categories: 
 
-- Server
-tags:
-- JAVA WEB
 
----
 ### 安装第三方jar包到本地仓库
 
 ##### ----进入jar包所在目录运行
