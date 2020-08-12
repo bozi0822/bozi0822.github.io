@@ -1,4 +1,4 @@
-Linux-CentOS7-放开指定端口
+Linux-CentOS7-放开指定的端口
 
 执意丨 2019-04-17 14:30:44  1564  收藏 2
 分类专栏： CentOS7 Linux
